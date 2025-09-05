@@ -1,0 +1,14 @@
+D:\personal_projects\to-do_list\bin\Debug\net8.0\to-do_list.exe
+D:\personal_projects\to-do_list\bin\Debug\net8.0\to-do_list.deps.json
+D:\personal_projects\to-do_list\bin\Debug\net8.0\to-do_list.runtimeconfig.json
+D:\personal_projects\to-do_list\bin\Debug\net8.0\to-do_list.dll
+D:\personal_projects\to-do_list\bin\Debug\net8.0\to-do_list.pdb
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.AssemblyInfoInputs.cache
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.AssemblyInfo.cs
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.csproj.CoreCompileInputs.cache
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.dll
+D:\personal_projects\to-do_list\obj\Debug\net8.0\refint\to-do_list.dll
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.pdb
+D:\personal_projects\to-do_list\obj\Debug\net8.0\to-do_list.genruntimeconfig.cache
+D:\personal_projects\to-do_list\obj\Debug\net8.0\ref\to-do_list.dll
